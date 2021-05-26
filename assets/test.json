@@ -1,0 +1,22 @@
+{
+    "arCondicionado": {
+        "estado": "0",
+        "controleAutomatico": "1"
+    },  
+    "datetime": "2021-05-24 16:53:41.677294",
+    "lampada": {
+        "estado": "1",
+        "controleAutomatico": "1"
+    },
+    "dht": {
+        "umidade": "54.0",
+        "temperatura": "23.0"
+    },
+    "ldr": {
+        "luminosidade": "0.0"
+    },
+    "flagsControleAutomatico": {
+        "lampada": "1",
+        "arCondicionado": "1"
+    }
+}
